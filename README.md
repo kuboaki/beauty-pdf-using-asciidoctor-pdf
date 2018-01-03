@@ -6,6 +6,7 @@ asciidoctor-pdfの出力する体裁を確認するのが目的ですので、�
 * [example01.adoc](example01.adoc) ：最初のサンプル文書
 * [example01.pdf](example01.pdf) ：最初のサンプルから生成した素に近いPDFファイル
 * [example01.html](example01.html) ：最初のサンプル文書から作成したhtmlファイル
+* [example01_d.pdf](example01_d.pdf) ：defaultのテーマファイルを使って生成したPDFファイル
 
 ## License
 MIT
