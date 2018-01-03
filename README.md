@@ -11,5 +11,8 @@ asciidoctor-pdfの出力する体裁を確認するのが目的ですので、�
 * [example02.adoc](example02.adoc) ：日本語フォントの変更を確認するための文書
 * [example02.pdf](example02.pdf) ：上記サンプルから生成したPDFファイル
 
+* [example03.adoc](example03.adoc) ：ヘッダの変更を確認するための文書
+* [example03.pdf](example03.pdf) ：上記サンプルから生成したPDFファイル
+
 ## License
 MIT
