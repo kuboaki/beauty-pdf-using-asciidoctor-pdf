@@ -8,5 +8,8 @@ asciidoctor-pdfの出力する体裁を確認するのが目的ですので、�
 * [example01.html](example01.html) ：最初のサンプル文書から作成したhtmlファイル
 * [example01_d.pdf](example01_d.pdf) ：defaultのテーマファイルを使って生成したPDFファイル
 
+* [example02.adoc](example02.adoc) ：日本語フォントの変更を確認するための文書
+* [example02.pdf](example02.pdf) ：上記サンプルから生成したPDFファイル
+
 ## License
 MIT
