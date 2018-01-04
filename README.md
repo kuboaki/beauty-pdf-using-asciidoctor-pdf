@@ -1,6 +1,7 @@
 # [asciidoctor-pdfでかっこいいPDFを作る](https://qiita.com/kuboaki/items/67774c5ebd41467b83e2) のサンプル
 
 Qiitaの記事 [asciidoctor-pdfでかっこいいPDFを作る](https://qiita.com/kuboaki/items/67774c5ebd41467b83e2) で紹介しているサンプル文書を置いてあります。
+
 asciidoctor-pdfの出力する体裁を確認するのが目的ですので、ここに置いてある文書には文章としての内容はほとんどありません。
 
 | ファイル|説明|
