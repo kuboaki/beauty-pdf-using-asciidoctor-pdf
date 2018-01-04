@@ -1,0 +1,1 @@
+# asciidoctor-pdf用のテーマファイル
