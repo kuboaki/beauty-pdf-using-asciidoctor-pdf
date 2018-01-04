@@ -17,6 +17,9 @@ asciidoctor-pdfの出力する体裁を確認するのが目的ですので、�
 * [example04.adoc](example04.adoc) ：タイトルページの変更を確認するための文書
 * [example04.pdf](example04.pdf) ：上記サンプルから生成したPDFファイル
 
+* [example05.adoc](example05.adoc) ：テーブル変更を確認するための文書
+* [example05.pdf](example05.pdf) ：テーマファイル変更前に上記サンプルから生成したPDFファイル
+* [example05_t.pdf](example05_t.pdf) ：テーマファイル変更後に上記サンプルから生成したPDFファイル
 
 ## License
 MIT
