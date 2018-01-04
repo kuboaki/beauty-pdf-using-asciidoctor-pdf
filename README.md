@@ -22,6 +22,10 @@ asciidoctor-pdfの出力する体裁を確認するのが目的ですので、�
 | [example06.adoc](example06.adoc) | キャプション、リードの変更を確認するための文書 |
 | [example06.pdf](example06.pdf) | テーマファイル変更前に上記サンプルから生成したPDFファイル |
 | [example06_c.pdf](example06_t.pdf) | テーマファイル変更後に上記サンプルから生成したPDFファイル |
+| [example07.adoc](example07.adoc) | シンタックスハイライトの効果を確認するための文書 |
+| [example07.pdf](example07.pdf) | シンタックスハイライト使用前に上記サンプルから生成したPDFファイル |
+| [example07_r.pdf](example07_r.pdf) | シンタックスハイライトを使用して上記サンプルから生成したPDFファイル |
+| [rouge_custom.rb](rouge_custom.rb) | シンタックハイライターRouge用のカスタムテーマファイル |
 
 ## License
 MIT
